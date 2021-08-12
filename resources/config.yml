@@ -1,0 +1,22 @@
+---
+"delay": 13 #180 seconds = 3 minutes
+"levelname": "your world name"
+"coal_ore": true
+"iron_ore": true
+"gold_ore": true
+"diamond_ore": true
+"emerald_ore": true
+"quartz_ore": true
+"redstone_ore": true
+"lapis_ore": true
+"glowstone": true
+"obsidian": true
+"diamondblock": true
+"netherrack": true
+"cobblestone": true
+"ironblock": true
+"stone": true
+"log2": true
+"emeraldblock": true
+"log1": true 
+...
